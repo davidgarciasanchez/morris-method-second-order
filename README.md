@@ -10,3 +10,6 @@ Code and/or part of this code has been used in the following scientific publicat
 - Garcia Sanchez D, Lacarrière B, Musy M, Bourges B. Application of sensitivity analysis in building energy simulations: combining first-and second-order elementary effects methods. Energy and Buildings, 2014;68:741–50. (https://www.sciencedirect.com/science/article/abs/pii/S0378778812004768)
 - Awad M, Senga Kiesse T, Assaghir Z, Ventura A. Convergence of sensitivity analysis methods for evaluating combined influences of model inputs, Reliability Engineering & System Safety, Volume 189, September 2019, Pages 109-122 (https://www.sciencedirect.com/science/article/abs/pii/S0951832018305763)
 
+### References
+https://www.sciencedirect.com/science/article/abs/pii/S0951832002001096
+
