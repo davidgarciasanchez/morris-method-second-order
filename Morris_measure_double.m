@@ -1,3 +1,5 @@
+#octave
+
 function [OutMatrix] = Morris_measure_double(NumFact, Sample, Output, p);
 
 Delt = p/(2*p-2)
